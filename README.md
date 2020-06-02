@@ -1,0 +1,3 @@
+# ethos-email-signature
+Fixed assets for email signatures
+URLs should remain stable so they can be embedded in emails...
