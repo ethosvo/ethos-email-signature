@@ -29,7 +29,7 @@ label input { float: right; width: 50%; }
 <div id="tpName" itemprop="name" style="font-size: 11pt; color: #369; font-weight: bold;">Annabelle Lambert</div>
 
 <div id="tp_details" style="color: #99a;">M: <span id="tpPhone">+44 [0]794 1253867</span> |  <a id="tpEmail" href="mailto:annabelle.lambert@teampolice.uk">annabelle.lambert@teampolice.uk</a></div>
-<div id="tp_logo"><img src="https://ethosvo.github.io/ethos-email-signature/teampolice-generic.png" style="width: 300px; height: 76px" alt="TeamPolice Logo"></div>
+<div id="tp_logo"><a href="https://www.teampolice.uk/"><img src="https://ethosvo.github.io/ethos-email-signature/teampolice-generic.png" style="width: 300px; height: 76px" alt="TeamPolice Logo"></a></div>
 <div id="tp_strap"><a href="http://eepurl.com/gMRNSb">Sign up to our newsletter</a> and we’ll keep you informed on the latest news from TeamPolice</div>
 <div id="tp_socialmedia">
 <a href="https://www.facebook.com/TeamPoliceUK"><img src="https://ethosvo.github.io/ethos-email-signature/social/facebook.png" style="vertical-align: text-bottom; width: 16px; height: 16px" alt="Facebook"> Facebook</a>
