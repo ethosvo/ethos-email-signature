@@ -35,6 +35,7 @@ label input { float: right; width: 50%; }
 <a href="https://www.facebook.com/TeamPoliceUK"><img src="https://ethosvo.github.io/ethos-email-signature/social/facebook.png" style="vertical-align: text-bottom; width: 16px; height: 16px" alt="Facebook"> Facebook</a>
 <a href="https://twitter.com/teampoliceuk"><img src="https://ethosvo.github.io/ethos-email-signature/social/twitter.png" style="vertical-align: text-bottom;margin-left: 10px; width: 16px; height: 16px" alt="Twitter"> Twitter</a>
 <a href="https://www.instagram.com/teampoliceuk/"><img src="https://ethosvo.github.io/ethos-email-signature/social/instagram.png" style="vertical-align: text-bottom;margin-left: 10px; width: 16px; height: 16px" alt="Instagram"> Instagram</a>
+<a href="hhttps://www.linkedin.com/company/teampolice/"><img src="https://ethosvo.github.io/ethos-email-signature/social/linkedin.png" style="vertical-align: text-bottom;margin-left: 10px; width: 16px; height: 16px" alt="LinkedIn"> LinkedIn</a>
 <a href="https://www.teampolice.uk/"><img src="https://ethosvo.github.io/ethos-email-signature/social/website.png" style="vertical-align: text-bottom;margin-left: 10px; width: 16px; height: 16px" alt="Website"> www.teampolice.uk</a>
 </div>
     </section>
